@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SearchEngineCorrected/src/main/java/ru/krylosov/arkadiy/utility/FillingIn.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SearchEngineCorrected/src/main/java/ru/krylosov/arkadiy/utility/Strategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/krylosov/arkadiy/Cat.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/krylosov/arkadiy/FirstTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/krylosov/arkadiy/FristTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/krylosov/arkadiy/Person.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/krylosov/arkadiy/PersonWithCat.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Test/src/main/java/ru/krylosov/arkadiy/SearchingEngineApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Test/src/main/java/ru/krylosov/arkadiy/creational/FillingIn.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Test/src/main/java/ru/krylosov/arkadiy/template/AllMatches.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Test/src/main/java/ru/krylosov/arkadiy/template/DifferingMatches.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Test/src/main/java/ru/krylosov/arkadiy/template/PartialMathes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Test/src/main/java/ru/krylosov/arkadiy/template/PartialMatсhes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Test/src/main/java/ru/krylosov/arkadiy/template/StrategyTemplate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Test/src/main/java/ru/krylosov/arkadiy/utility/Utility.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
